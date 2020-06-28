@@ -2,7 +2,8 @@
 # Aim
 Experimental data used to create regression models of appliances energy use in a low energy building.
 
-    
+# Note 
+In case the ipynb(code) file doesn't load, you can view it at https://nbviewer.jupyter.org/github/axn170037/ML-Project_-Data/blob/master/ML%20Project%202%20%281%29.ipynb     
 #  Regression
 
 # About the Data
