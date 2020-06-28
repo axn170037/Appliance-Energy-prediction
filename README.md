@@ -1,4 +1,4 @@
-# ML-Project_-Data 
+# Appliance Energy prediction
 # Aim
 Experimental data used to create regression models of appliances energy use in a low energy building.
 
